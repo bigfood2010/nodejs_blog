@@ -7,6 +7,5 @@ app.get('/tin-tuc', (req, res) => {
 })
 
 app.listen(port, () => {
-	console.log("first")
 	console.log(`Example app listening on port ${port}`)
 })
